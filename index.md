@@ -31,10 +31,12 @@ Thank you for visiting my site, and I look forward to sharing my journey and ins
 ## About My Advisor
 
 [Itsik Pe'er](https://www.cs.columbia.edu/~itsik/)
+
 Professor of Computer Science and Systems Biology at Columbia University
 Research Interests: Computational biology, Population genetics
 
 [Philippe Chlenski](https://chlenski.com/)
+
 Computer Science PhD student in the Pe'er lab at Columbia University
 Research Interests: Machine learning, Metagenomics
 

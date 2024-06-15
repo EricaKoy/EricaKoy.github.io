@@ -18,10 +18,13 @@ avatar: https://EricaKoy.github.io/images/Erica.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ericakoyama123@gmail.com
+  email: ek3371@columbia.edu
+  github: https://github.com/EricaKoy
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
+  linkedin: https://www.linkedin.com/in/ericakoyama/
+
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed

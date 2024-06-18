@@ -45,7 +45,7 @@ Research Interests: Machine learning, Metagenomics
 A description of your research project and goals (as outlined by you and your advisor at the beginning 
 of your project).
 
-Hyperbolic geometry captures hierarchically structured data efficiently and has numerous applications in classifying real-world data. However, hyperbolic classifiers face high computational demands due to Riemannian manifold computations, making them difficult to scale. HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision trees into hyperbolic space, eliminating the need for computationally challenging operations (Chlenski 2024). This summer, I classified various datasets using HYPERDT and Euclidian classifiers and determined the types of datasets that each best classifies.
+Hyperbolic geometry captures hierarchically structured data efficiently and has numerous applications in classifying real-world data. However, hyperbolic classifiers face high computational demands due to Riemannian manifold computations, making them difficult to scale. HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision trees into hyperbolic space, eliminating the need for computationally challenging operations [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). This summer, I classified various datasets using HYPERDT and Euclidian classifiers and determined the types of datasets that each best classifies.
 
 [My Final Report](files/finalreport.pdf)
 

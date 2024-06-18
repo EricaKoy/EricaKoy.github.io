@@ -5,7 +5,6 @@ title: DREAM Project Site
 
 * TOC
 {:toc}
-
 ## About Me
 
 Welcome to my website! My name is [Erica Koyama](https://www.linkedin.com/in/ericakoyama/), and I am currently 
@@ -27,7 +26,6 @@ past experiences with my future career goals.
 
 Thank you for visiting my site, and I look forward to sharing my journey and insights with you!
 
-
 ## About My Advisor
 
 [Itsik Pe'er](https://www.cs.columbia.edu/~itsik/)
@@ -42,14 +40,12 @@ Computer Science PhD student in the Pe'er lab at Columbia University
 
 Research Interests: Machine learning, Metagenomics
 
-
 ## About My Project
 
 A description of your research project and goals (as outlined by you and your advisor at the beginning 
 of your project).
 
-Hyperbolic geometry captures hierarchically structured data efficiently and has numerous applications in classifying real-world data. However, hyperbolic classifiers face high computational demands due to Riemannian manifold computations, making them difficult to scale. HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision trees into hyperbolic space, eliminating the need for computationally challenging operations (Chlenski 2024). This summer, I classified various datasets using HYPERDT and Euclidian classifiers and determined the types of datasets that each best classifies. ![image](https://github.com/EricaKoy/EricaKoy.github.io/assets/144566679/e6e2282c-93fe-4a0d-9b3c-225e53c625d0)
-
+Hyperbolic geometry captures hierarchically structured data efficiently and has numerous applications in classifying real-world data. However, hyperbolic classifiers face high computational demands due to Riemannian manifold computations, making them difficult to scale. HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision trees into hyperbolic space, eliminating the need for computationally challenging operations (Chlenski 2024). This summer, I classified various datasets using HYPERDT and Euclidian classifiers and determined the types of datasets that each best classifies.
 
 [My Final Report](files/finalreport.pdf)
 

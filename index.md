@@ -49,12 +49,9 @@ representing these data types.
 
 However, existing hyperbolic classification and regression methods face significant limitations, 
 often being numerically unstable or computationally inefficient. The use of preferred machine learning algorithms 
-is often compromised when prioritizing accurate hyperbolic distance representations HyperDT addresses these 
+is often compromised when prioritizing accurate hyperbolic distance representations. HyperDT addresses these 
 challenges by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and 
-random forests for classification and regression tasks. 
-
-HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision
-trees into hyperbolic space, eliminating the need for computationally challenging operations 
+random forests for classification and regression tasks.
 [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
 **This summer, I classified biological datasets using HYPERDT and competing classifiers and sought to understand
 the circumstances where HYPERDT is most appropriate for use.**

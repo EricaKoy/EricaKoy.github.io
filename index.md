@@ -53,8 +53,8 @@ is often compromised when prioritizing accurate hyperbolic distance representati
 challenges by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and 
 random forests for classification and regression tasks.
 [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
-**This summer, I classified biological datasets using HYPERDT and competing classifiers and sought to understand
-the circumstances where HYPERDT is most appropriate for use.**
+**This summer, I classified biological datasets using HyperDT and competing classifiers and sought to understand
+the circumstances where HyperDT is most appropriate for use.**
 
 [My Final Report](files/finalreport.pdf)
 

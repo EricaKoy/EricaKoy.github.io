@@ -42,13 +42,22 @@ Research Interests: Machine learning, Metagenomics
 
 ## About My Project
 
-Hyperbolic geometry captures hierarchically structured data efficiently and has numerous applications in classifying 
-real-world data. However, hyperbolic classifiers face high computational demands due to Riemannian manifold 
-computations, making them difficult to scale. HYPERDT is a novel hyperbolic decision tree algorithm that 
-utilizes inner products to transform Euclidian decision trees into hyperbolic space, eliminating the need 
-for computationally challenging operations [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
-**This summer, I classified various datasets using HYPERDT and competing classifiers and sought to understand under 
-which circumstances HYPERDT is appropriate to use.**
+Hyperbolic geometry overcomes the limitations of Euclidean space in capturing distance arrangements with 
+exponentially growing neighborhood sizes. This characteristic is particularly evident in biological data, 
+such as phylogenetic trees and other branching lineages, making hyperbolic geometry essential for accurately 
+representing these data types.
+
+However, existing hyperbolic classification and regression methods face significant limitations, 
+often being numerically unstable or computationally inefficient. The use of preferred machine learning algorithms 
+is often compromised when prioritizing accurate hyperbolic distance representations HyperDT addresses these 
+challenges by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and 
+random forests for classification and regression tasks. 
+
+HYPERDT is a novel hyperbolic decision tree algorithm that utilizes inner products to transform Euclidian decision
+trees into hyperbolic space, eliminating the need for computationally challenging operations 
+[(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
+**This summer, I classified biological datasets using HYPERDT and competing classifiers and sought to understand
+the circumstances where HYPERDT is most appropriate for use.**
 
 [My Final Report](files/finalreport.pdf)
 

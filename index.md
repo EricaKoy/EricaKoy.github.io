@@ -59,4 +59,4 @@ the circumstances where HyperDT is most appropriate for use.**
 
 ## My Blog
 
-[My Blog](blog.html)
+[My Blog](/_posts/2020-06-01-week1.md)

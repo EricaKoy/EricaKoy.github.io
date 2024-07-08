@@ -44,16 +44,22 @@ Research Interests: Machine learning, Metagenomics
 
 Hyperbolic geometry overcomes the limitations of Euclidean space in capturing distance arrangements with 
 exponentially growing neighborhood sizes. This characteristic is particularly evident in biological data, 
-such as phylogenetic trees and other branching lineages, making hyperbolic geometry essential for accurately 
-representing these data types.
+which is structured by phylogenetic trees and other branching lineages, making hyperbolic geometry essential 
+for accurately representing these datasets.
 
-However, existing hyperbolic classification and regression methods face significant limitations, 
-often being numerically unstable or computationally inefficient. The use of preferred machine learning algorithms 
-is often compromised when prioritizing accurate hyperbolic distance representations. HyperDT addresses these 
-challenges by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and 
-random forests for classification and regression tasks [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
-**This summer, I classified biological datasets using HyperDT and competing classifiers and sought to understand
-the circumstances where HyperDT is most appropriate for use.**
+However, existing hyperbolic classification and regression methods face significant limitations, often being 
+numerically unstable or computationally inefficient. Thus, preferred machine learning algorithm use is often 
+compromised when prioritizing accurate hyperbolic distance representations. HyperDT addresses these challenges 
+by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and random 
+forests for classification and regression tasks [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
+
+HyperDT outperformed competing Euclidian and hyperbolic classifiers when used on three toy datasets of Gaussian 
+and hyperbolic geometry. **To elucidate whether biological data benefits from hyperbolic classification, I classified 
+real biological datasets using HyperDT and competing classifiers and sought to understand the circumstances where 
+HyperDT is most appropriate for use. Specifically, I measured the distortion of distances and accuracy between 
+different classifiers.**
+
+
 
 [My Final Report](files/finalreport.pdf)
 

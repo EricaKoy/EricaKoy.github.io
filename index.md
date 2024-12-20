@@ -42,22 +42,7 @@ Research Interests: Machine learning, Metagenomics
 
 ## About My Project
 
-Hyperbolic geometry overcomes the limitations of Euclidean space in capturing distance arrangements with 
-exponentially growing neighborhood sizes. This characteristic is particularly evident in biological data, 
-which is structured by phylogenetic trees and other branching lineages, making hyperbolic geometry essential 
-for accurately representing these datasets.
-
-However, existing hyperbolic classification and regression methods face significant limitations, often being 
-numerically unstable or computationally inefficient. Thus, preferred machine learning algorithm use is often 
-compromised when prioritizing accurate hyperbolic distance representations. HyperDT addresses these challenges 
-by providing an accurate, efficient, and hyperbolically appropriate version of decision trees and random 
-forests for classification and regression tasks [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). 
-
-HyperDT outperformed competing Euclidian and hyperbolic classifiers when used on three toy datasets of Gaussian 
-and hyperbolic geometry. **To elucidate whether biological data benefits from hyperbolic classification, I classified 
-real biological datasets using HyperDT and competing classifiers and sought to understand the circumstances where 
-HyperDT is most appropriate for use. Specifically, I measured the distortion of distances and accuracy between 
-different classifiers.**
+Hyperbolic embeddings can capture hierarchical structures in data, making them ideal for tasks involving latent hierarchies. However, existing hyperbolic classification and regression methods, while advantageous in this respect, often face challenges such as numerical instability and computational inefficiency. HyperDT addresses these issues by leveraging hyperbolic geometry in decision trees using inner products, improving stability and scalability [(Chlenski 2024)](https://arxiv.org/abs/2310.13841). Despite these advantages, HyperDT has not been tested on real datasets, and hyperbolic methods, in general, remain underexplored in the context of metagenomics. We applied HyperDT to the American Gut Dataset and observed that while the dataset exhibited latent hierarchical structure, this did not translate into improved performance for HyperDT. Instead, traditional Euclidean-based methods demonstrated comparable accuracy in predictive power to HyperDT.
 
 
 
